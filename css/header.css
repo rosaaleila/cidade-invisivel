@@ -1,0 +1,33 @@
+header {
+  background-color: #0009;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 80px;
+}
+
+.barra-menu ul {
+  text-decoration: none;
+  display: flex;
+  list-style: none;
+  gap: 30px;
+}
+
+.barra-menu a {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 1.2rem;
+  transition: color 0.5s;
+}
+
+.barra-menu a:hover {
+  color: #948659;
+}
+
+.logo img {
+  height: 35px;
+  width: 145px;
+}

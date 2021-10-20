@@ -1,0 +1,50 @@
+main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 80px;
+  gap: 5px;
+}
+
+main h2 {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+main h1 {
+  font-size: 4.5rem;
+  font-weight: 500;
+}
+
+main p {
+  width: 600px;
+  font-size: 1.3rem;
+}
+
+main a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 1.5rem;
+  width: 250px;
+  height: 55px;
+  background-color: #7f9459;
+  color: antiquewhite;
+  border-radius: 5px;
+  margin-top: 20px;
+  transition: all 0.2s;
+}
+
+main a:hover {
+  border: 1px solid #7f9459;
+  background-color: black;
+}
+
+h2,
+h1,
+p {
+  color: whitesmoke;
+  font-family: "Open Sans", sans-serif;
+}
