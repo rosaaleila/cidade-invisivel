@@ -1,0 +1,58 @@
+.paragrafo-descritivo {
+  width: 480px;
+  font-size: 24px;
+}
+
+.titulo {
+  width: 630px;
+  font-size: 130px;
+  color: rgba(255, 255, 255, 0);
+  -webkit-text-stroke: 2px #fff;
+}
+
+.subtitulo {
+  width: 130px;
+  font-size: 42px;
+  color: rgba(255, 255, 255, 0);
+  -webkit-text-stroke: 1px #fff;
+}
+
+.paragrafo-descritivo {
+  font-style: italic;
+  font-weight: 200;
+}
+
+.informativo {
+  color: #98171f;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+  transform: rotate(270deg);
+  width: 75px;
+  height: 192px;
+}
+
+.carrdinfo p {
+  font-size: 20px;
+}
+
+.ator :nth-child(2) {
+  font-weight: 200;
+  font-style: italic;
+}
+
+.personagem :nth-child(2) {
+  font-weight: 200;
+  font-style: italic;
+}
+
+.entidade :nth-child(2) {
+  font-weight: 200;
+  font-style: italic;
+}
+
+h2,
+h1,
+p {
+  color: whitesmoke;
+  font-family: "Open Sans", sans-serif;
+}

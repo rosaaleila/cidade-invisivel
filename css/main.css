@@ -22,7 +22,7 @@ main p {
   font-size: 1.3rem;
 }
 
-main a {
+main > a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -37,7 +37,7 @@ main a {
   transition: all 0.2s;
 }
 
-main a:hover {
+main > a:hover {
   border: 1px solid #7f9459;
   background-color: black;
 }

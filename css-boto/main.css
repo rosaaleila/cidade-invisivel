@@ -1,0 +1,35 @@
+main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 80px;
+  gap: 5px;
+}
+
+.titulos {
+  display: flex;
+  flex-direction: column;
+}
+
+.titulos .subtitulo {
+  margin-left: 350px;
+}
+
+.infos {
+  padding-top: 5px;
+  display: flex;
+  align-items: baseline;
+}
+
+.carrdinfo {
+  margin-top: 50px;
+  gap: 10px;
+  display: flex;
+}
+
+.divisoria {
+  height: 100%;
+  width: 3px;
+  background-color: #98171f;
+}
