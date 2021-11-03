@@ -12,11 +12,6 @@ main {
   flex-direction: column;
 }
 
-.subtitulo {
-  position: absolute;
-  left: 420px;
-}
-
 .infos {
   display: flex;
   align-items: baseline;
