@@ -1,0 +1,10 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(../imgs/background-sobre.png);
+  background-size: cover;
+  background-color: #4600003b;
+  background-blend-mode: multiply;
+  display: flex;
+  flex-direction: column;
+}

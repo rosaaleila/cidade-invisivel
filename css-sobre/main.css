@@ -1,0 +1,35 @@
+.git {
+  width: 10.6rem;
+  height: 3.1rem;
+}
+
+.linkedin {
+  width: 11.8rem;
+  height: 3.1rem;
+}
+
+.instagram {
+  width: 12.5rem;
+  height: 3.1rem;
+}
+
+button {
+  padding: 1rem 1rem;
+  cursor: pointer;
+  border: none;
+  background-color: #c4c4c4;
+  font-weight: 500;
+  transition: linear 0.4s;
+  border-radius: 5%;
+}
+
+.redes {
+  width: 40.5rem;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.redes button:hover {
+  background-color: #6b0b12;
+}
