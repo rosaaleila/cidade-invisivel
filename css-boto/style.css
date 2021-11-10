@@ -1,7 +1,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-image: url(/imgs/boto-cor-de-rosa.png);
+  background-image: url(../imgs/boto-cor-de-rosa.png);
   background-size: cover;
   background-position: right top;
   background-color: #4600003b;
